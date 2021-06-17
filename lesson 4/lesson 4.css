@@ -1,0 +1,19 @@
+img {
+    width: 100px;
+    height: 80px;
+}
+
+article {
+    width: 70%;
+    margin: auto;
+    background-image: url(img/Damask-Ornament.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+a {
+    font-weight: 900;
+    color: crimson;
+}
+a:hover {
+    color: cyan;
+}
